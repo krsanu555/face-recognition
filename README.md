@@ -33,7 +33,7 @@ Note:- For face recognition, each image can contain any number of faces. <br />
 
 1. Clone the repository
 ```
-https://github.com/krsanu555/face-recognition.git
+git clone https://github.com/krsanu555/face-recognition.git
 ```
 2. Move inside the newly created repository
 ```
